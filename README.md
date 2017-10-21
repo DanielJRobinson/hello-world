@@ -1,2 +1,6 @@
 # hello-world
-Repository
+Hi,
+I'm learning to code in html css and java.
+
+
+for now!
